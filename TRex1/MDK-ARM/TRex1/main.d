@@ -1,0 +1,38 @@
+trex1\main.o: ../Core/Src/main.c
+trex1\main.o: ../Core/Inc/main.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+trex1\main.o: ../Core/Inc/stm32f1xx_hal_conf.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+trex1\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+trex1\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+trex1\main.o: ../Drivers/CMSIS/Include/core_cm3.h
+trex1\main.o: D:\STM32\Keil V5\ARM\ARMCC\Bin\..\include\stdint.h
+trex1\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
+trex1\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+trex1\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+trex1\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+trex1\main.o: D:\STM32\Keil V5\ARM\ARMCC\Bin\..\include\stddef.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+trex1\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+trex1\main.o: ../Core/Inc/i2c.h
+trex1\main.o: ../Core/Inc/tim.h
+trex1\main.o: ../Core/Inc/usart.h
+trex1\main.o: ../Core/Inc/gpio.h
+trex1\main.o: ../Core/Inc/OLED.H
+trex1\main.o: D:\STM32\Keil V5\ARM\ARMCC\Bin\..\include\stdio.h
+trex1\main.o: D:\STM32\Keil V5\ARM\ARMCC\Bin\..\include\string.h

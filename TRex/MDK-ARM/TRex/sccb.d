@@ -1,0 +1,34 @@
+trex\sccb.o: ..\Core\Src\sccb.c
+trex\sccb.o: ../Core/Inc/SCCB.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+trex\sccb.o: ../Core/Inc/stm32f1xx_hal_conf.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+trex\sccb.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+trex\sccb.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+trex\sccb.o: ../Drivers/CMSIS/Include/core_cm3.h
+trex\sccb.o: D:\STM32\Keil V5\ARM\ARMCC\Bin\..\include\stdint.h
+trex\sccb.o: ../Drivers/CMSIS/Include/cmsis_version.h
+trex\sccb.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+trex\sccb.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+trex\sccb.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+trex\sccb.o: D:\STM32\Keil V5\ARM\ARMCC\Bin\..\include\stddef.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h
+trex\sccb.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h

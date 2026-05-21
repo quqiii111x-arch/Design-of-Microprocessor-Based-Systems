@@ -1,0 +1,36 @@
+trex\fifo.o: ..\Core\Src\fifo.c
+trex\fifo.o: ../Core/Inc/fifo.h
+trex\fifo.o: ../Core/Inc/main.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+trex\fifo.o: ../Core/Inc/stm32f1xx_hal_conf.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+trex\fifo.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+trex\fifo.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+trex\fifo.o: ../Drivers/CMSIS/Include/core_cm3.h
+trex\fifo.o: D:\STM32\Keil V5\ARM\ARMCC\Bin\..\include\stdint.h
+trex\fifo.o: ../Drivers/CMSIS/Include/cmsis_version.h
+trex\fifo.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+trex\fifo.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+trex\fifo.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+trex\fifo.o: D:\STM32\Keil V5\ARM\ARMCC\Bin\..\include\stddef.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h
+trex\fifo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h
+trex\fifo.o: ../Core/Inc/gpio.h

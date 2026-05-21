@@ -1,0 +1,20 @@
+.\output\exti.o: Resource\BSP\exti.c
+.\output\exti.o: Resource\BSP\exti.h
+.\output\exti.o: .\Resource\SYSTEM\sys.h
+.\output\exti.o: .\CMSIS\stm32f10x.h
+.\output\exti.o: .\CMSIS\core_cm3.h
+.\output\exti.o: D:\STM32\Keil V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\exti.o: .\CMSIS\system_stm32f10x.h
+.\output\exti.o: .\CMSIS\stm32f10x_conf.h
+.\output\exti.o: .\FWLIB\inc\stm32f10x_dma.h
+.\output\exti.o: .\CMSIS\stm32f10x.h
+.\output\exti.o: .\FWLIB\inc\stm32f10x_gpio.h
+.\output\exti.o: .\FWLIB\inc\stm32f10x_i2c.h
+.\output\exti.o: .\FWLIB\inc\stm32f10x_rcc.h
+.\output\exti.o: .\FWLIB\inc\stm32f10x_tim.h
+.\output\exti.o: .\FWLIB\inc\stm32f10x_usart.h
+.\output\exti.o: .\FWLIB\inc\misc.h
+.\output\exti.o: .\FWLIB\inc\stm32f10x_exti.h
+.\output\exti.o: .\Resource\SYSTEM\delay.h
+.\output\exti.o: Resource\BSP\ov7670.h
+.\output\exti.o: Resource\BSP\sccb.h
